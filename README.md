@@ -55,26 +55,26 @@ Adjusted:
 ![spending_new](Resources/new_spending.png)
 
 #### Scores by school size
-Based on Thomas High School's population, it is considered a medium sized school. There was a slight but barely noticeable increase in the passing percentage data. See below:
+Based on Thomas High School's population, it is considered a medium sized school. There was a slight but barely noticeable increase in the passing percentage data. This change would not be noticeable unless the numbers are formatted to show to the hundreths place. The averages for math and reading remained the same. However, the passing math, reading, and overall passing percentages all saw an extremly slight reduction. See below:
 Original:
 
-![size_original](Resources/size_original.png)
+![size_original](Resources/original_size.png)
 
 Adjusted:
 
-![size_new](Resources/size_new.png)
+![size_new](Resources/new_size.png)
 
 #### Scores by school type
-Thomas High School is a charter school. Likewise with school spending and school size, there was a slight but barely noticeable change. See below:
+Thomas High School is a charter school. Likewise with school spending and school size, there was a slight but barely noticeable change that could only be discerned after formatting the data to the hundreths place. Once again, the averages for math and reading remained the same. However, the passing math, reading, and overall passing percentages all saw an extremly slight reduction.See below:
 Original:
 
-![type_original](Resources/type_original.png)
+![type_original](Resources/original_type.png)
 
 Adjusted:
 
-![type_new](Resources/type_new.png)
+![type_new](Resources/new_type.png)
 
 ## Summary
-In summary, the replacing of NaNs for reading and math scores at Thomas High School had minimal impact on the overall scores and passing percentages when looked at within the district as a whole. However, there was significant impact to the data when comparing Thomas High School's new adjusted data to the rest of the schools' data individually. The changes resulted in a significant increase for Thomas high School's passing math percentage, passing reading ercentage, and the overall passing percentage. Additionally, as a result of this reduction in overall passing percentage, Thomas High School's new values changed its position amongst the other schools in the district. Most notably, it's ranking amongst the rest of the schools increased to the #2 ranking, making it the high school with the second highest overall passing percentage within the district, behind only Cabrera High School.
+In summary, the replacing of NaNs for reading and math scores at Thomas High School had minimal impact on the overall scores and passing percentages when looked at within the district as a whole. However, there was significant impact to the data when comparing Thomas High School's new adjusted data to the rest of the schools' data individually. The changes resulted in a significant increase for Thomas High School's passing math percentage, passing reading percentage, and the overall passing percentage. Additionally, as a result of this increase in overall passing percentage, Thomas High School's new values changed its position amongst the other schools in the district. Most notably, its ranking amongst the rest of the schools increased from its original #8 ranking to the #2 ranking, making it the high school with the second highest overall passing percentage within the district, behind only Cabrera High School.
 
-However, all the other impacts to the data were minor and hardly noticeable. There were slight reductions in the school spending, school size and school type. However this can only be seen when formatting the % Passing, % Passign Reading, and % Overall Passing data to the hundrethds place. If only whole percentages are used, the changes would not even be noticed except for ...
+However, all the other impacts to the data were minor and hardly noticeable. There were slight reductions in the school spending, school size and school type. However this can only be seen when formatting the % Passing, % Passign Reading, and % Overall Passing data to the hundrethds place. If only whole percentages are used, the changes would not even be noticed except for in the school spending.

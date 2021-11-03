@@ -9,7 +9,7 @@ Using bulleted lists and images of DataFrames as support, address the following 
 Prior to the adjustment, the district summary showed the data as seen below:
 ![original_district](Resources/original_district.png)
 
-REDO*** After the adjustment was made, the impact seems miniscule. When factored into the rest of the student dataset, the removal of 461 scores from 9th graders at Thomas High School from the rest of the 39,170 student scores that encompass all grade levels at all other school in the district, the results don't appear to move much. In fact, the change resulted in a less than 1% difference, as the average math/reading scores as well as the % passing math/reading data still rounds to the same whole numer. Refer to the below image for the adjusted dataset:
+After the adjustment was made, the impact seems miniscule. When factored into the rest of the student dataset, the removal of 461 scores from 9th graders at Thomas High School from the rest of the 39,170 student scores that encompass all grade levels at all other school in the district, the results don't appear to move much. In fact, the change resulted in a less than 1% difference, as the average math/reading scores as well as the % passing math/reading data all still round to the same whole number. Refer to the below image for the adjusted dataset:
 ![amended_district](Resources/amended_district.png)
 
 ### How is the school summary affected?

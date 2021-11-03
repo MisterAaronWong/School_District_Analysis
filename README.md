@@ -34,24 +34,25 @@ After replacing the scores with only 10th-12th grade scores, with the new overal
 
 ### How does replacing the ninth-grade scores affect the following:
 #### Math and reading scores by grade
-Replacing the ninth-grade scores for Thomas High School only affected the school's overall average but did not affect the individual averages for Thomas High School scores for the other grade levels.
-Original:
+Thomas High School originally reported 83.6 for their 9th graders' average math score and 83.7 for their 9th graders' average reading score. Replacing the ninth-grade scores with NaN only affected the school's overall average but did not affect the individual averages for the other grade levels. Only the 9th grade math and reading scores at Thomas High School were changed to NaN. Therefore, all the score averages for other grade levels at all other schools including Thomas High School remained the same.
 
-![math_reading_original](Resources/math_reading_original.png)
+Math Scores by Grade:
 
-Adjusted:
+![new_math](Resources/new_math.png)
 
-![math_reading_new](Resources/math_reading_new.png)
+Reading Scores by Grade:
+
+![new_reading](Resources/new_reading.png)
 
 #### Scores by school spending
-Thomas High School falls into the $630-$644 bin of stundent spending range. There was minimal to no impact on spending after changing the ninth-grade scores to NaN. See below:
+*** REDO AND CHECK Thomas High School falls into the $630-$644 bin of stundent spending range. There was a slight but noticeable impact to the data. The average math and reading scores still round to the same whole number, but the % Passing Math, % Passing Reading, and % Overall Passing data saw some shifts. Both the math and reading percenages saw an approximately 2% increase, while the overall passing percentage surpisingly saw a 12% decrease. See below:
 Original:
 
-![spending_original](Resources/spending_original.png)
+![spending_original](Resources/original_spending.png)
 
 Adjusted:
 
-![spending_new](Resources/spending_new.png)
+![spending_new](Resources/new_spending.png)
 
 #### Scores by school size
 Based on Thomas High School's population, it is considered a medium sized school. There was a slight but barely noticeable increase in the passing percentage data. See below:

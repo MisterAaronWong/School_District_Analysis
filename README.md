@@ -57,6 +57,7 @@ Adjusted:
 
 #### Scores by school size
 Based on Thomas High School's population, it is considered a medium sized school. There was a slight but barely noticeable increase in the passing percentage data. This change would not be noticeable unless the numbers are formatted to display to the hundreths place. The averages for math and reading remained the same. However, the passing math, reading, and overall passing percentages all saw an extremely slight reduction. See below:
+
 Original:
 
 ![size_original](Resources/original_size.png)
@@ -67,6 +68,7 @@ Adjusted:
 
 #### Scores by school type
 Thomas High School is a charter school. Likewise with school spending and school size, there was a minor but barely noticeable change that could only be discerned after formatting the data to the hundreths place. Once again, the averages for math and reading remained the same. However, the passing math percentage, passing reading percentage, and overall passing percentage all had an extremely slight reduction. See below:
+
 Original:
 
 ![type_original](Resources/original_type.png)
